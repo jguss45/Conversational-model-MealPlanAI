@@ -25,7 +25,7 @@ This notebook demonstrates the integration of a Gradio frontend enabling user in
 
 ### Getting Info
 
-![Uploading conv1es.PNG…]()
+![conv1es](https://github.com/jguss45/Conversational-model-MealPlanAI/assets/44825277/205aa0c6-b7b4-4c97-9c85-410fdb72e3bf)
 
 ### Creating a meal plan
 

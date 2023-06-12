@@ -7,7 +7,7 @@ This repository consists of a single jupyter notebook containing the MVP of a NL
 * Google Dialogflow API
 * Google Translation API
 
-This notebook demonstrates the integration of a Gradio frontend enabling user input, with the backend consisting of conversational model in Dialogflow and Google's translation API. 
+This notebook demonstrates the integration of a Gradio frontend enabling user input, with the backend consisting of the conversational model in Dialogflow and Google's translation API. 
 
 ## MVP
 
